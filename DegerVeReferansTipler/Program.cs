@@ -26,6 +26,9 @@
 
 
 
+
+
+
             //int,decimal,float,bool,double = DEĞER TİP demek.
             //Array,Class,Interface vb. bunlar ise = Referans tip olarak karşımıza çıkar.
             //Interfacede instance yaratırken new kullanılmaz.

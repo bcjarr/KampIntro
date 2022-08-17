@@ -5,11 +5,13 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{E891926C-8CE9-4691-A29E-575B7BF517D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{3B8A30A6-6F77-4B6B-8EF1-26848149D850}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{3B8A30A6-6F77-4B6B-8EF1-26848149D850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{A217B492-61E9-44BF-B637-7A69608EFCE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{A217B492-61E9-44BF-B637-7A69608EFCE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{D88B831C-CD32-487D-B6F0-94B85D5C3CFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{D88B831C-CD32-487D-B6F0-94B85D5C3CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{F35FA227-3327-4579-9A83-CF78A2CFC608}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D88B831C-CD32-487D-B6F0-94B85D5C3CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D88B831C-CD32-487D-B6F0-94B85D5C3CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D88B831C-CD32-487D-B6F0-94B85D5C3CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35FA227-3327-4579-9A83-CF78A2CFC608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35FA227-3327-4579-9A83-CF78A2CFC608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35FA227-3327-4579-9A83-CF78A2CFC608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35FA227-3327-4579-9A83-CF78A2CFC608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
